@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;
+}
+.main{
+    background-color: white;
+    margin: 15% 37%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline-style: solid;
+}
+label{
+    display: inline-block;
+    width:150px
+}
+button{
+    background-color:orange;
+    margin-left:37%;
+}
